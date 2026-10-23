@@ -22,8 +22,9 @@ november24 na aba **Conectores** do plugin (o login é pelo e-mail da mentoria) 
    - Resumo ou visão geral de um tema ("o que temos sobre governança?"): `tema` sem parte, direto.
      Ele traz os conceitos-chave e o roteiro do "Como decidir". Não chame `buscar` antes.
    - Pergunta sobre um ponto ("o que é linha de base?"): `buscar`.
-   - Situação (decisão, plano, risco, piloto): primeiro `indice`, para escolher os temas que a
-     situação toca, e diga quais e por quê. Depois leia só a peça necessária de cada um: `tema`
+   - Situação (decisão, plano, risco, piloto): primeiro `mapa`, que traz os dez temas e como se
+     ligam (o que sai de um alimenta outro). Escolha os temas que a situação toca e diga quais e
+     por quê. Depois leia só a peça necessária de cada um: `tema`
      com a parte ("Critérios para comparar opções", "Modelo de plano de ação") ou `buscar`. Uma
      situação de piloto, escala ou investimento cruza, no mínimo, valor (C2), governança (C5) e
      pessoas (C9).

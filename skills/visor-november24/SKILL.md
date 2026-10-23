@@ -15,8 +15,8 @@ O visor é a ferramenta `mostrar` do conector november24. É ela que leva a marc
    Conectores do plugin.
 3. **O que vai no visor:** markdown com tabelas e listas; diagramas num bloco ```mermaid. Para um
    plano: cronograma, donos, critérios de decisão, riscos e o bloco "O que falta saber". Para uma
-   comparação: as opções nas linhas, os critérios do material nas colunas. Cite as fontes (tema e
-   parte) no campo `fontes`.
+   comparação: as opções nas linhas, os critérios do material nas colunas. No campo `fontes`, cite
+   os temas usados, pelo código ou como o resultado os nomeia ("C10 · Modelo de plano de ação").
 4. **O chat fica curto:** uma ou duas frases com o que importa (uma premissa, uma decisão pendente)
    e uma só pergunta. Não repita o conteúdo do visor.
 5. **Só o que o material traz.** Sem número de mercado, sem benchmark de cabeça.
