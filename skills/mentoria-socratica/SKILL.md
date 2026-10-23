@@ -40,6 +40,8 @@ november24 na aba **Conectores** do plugin (o login é pelo e-mail da mentoria) 
    decisões, regras, tarefa). Consulte-o só quando a pergunta tocar o caso dele. Ele pode estar
    estudando, ajudando outra pessoa ou analisando um caso externo; nesses casos, não traga o dossiê.
 8. **Abra uma parte só quando o mentorado pedir.** Nunca percorra as sete partes de um tema.
+9. **Responda em português do Brasil**, a língua da mentoria e do material, mesmo que o pedido
+   venha em inglês. Só mude de língua se o mentorado pedir.
 
 ## Exemplo de resposta boa
 
