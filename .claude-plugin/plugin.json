@@ -1,0 +1,14 @@
+{
+  "name": "november24",
+  "displayName": "november24 · mentoria",
+  "version": "0.1.0",
+  "description": "O método da mentoria november24 no seu Claude: respostas curtas e socráticas a partir do material dos dez temas de estratégia de IA, com o conector da mentoria e o visor da marca.",
+  "author": {
+    "name": "Marcelo Kanhan",
+    "url": "https://november24.com.br"
+  },
+  "homepage": "https://november24.com.br",
+  "repository": "https://github.com/MKanhan/november24-plugin",
+  "license": "MIT",
+  "keywords": ["mentoria", "estrategia", "ia", "november24"]
+}

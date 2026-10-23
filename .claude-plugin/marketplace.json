@@ -1,0 +1,23 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "november24",
+  "owner": {
+    "name": "Marcelo Kanhan"
+  },
+  "description": "november24 — mentoria individual de Estratégia de IA e Negócios. O plugin traz o método para o Claude.",
+  "plugins": [
+    {
+      "name": "november24",
+      "source": "./",
+      "description": "O método da mentoria november24 no seu Claude: respostas curtas e socráticas a partir do material dos dez temas de estratégia de IA, com o conector da mentoria e o visor da marca.",
+      "author": {
+        "name": "Marcelo Kanhan"
+      },
+      "homepage": "https://november24.com.br",
+      "repository": "https://github.com/MKanhan/november24-plugin",
+      "license": "MIT",
+      "keywords": ["mentoria", "estrategia", "ia", "november24"],
+      "category": "productivity"
+    }
+  ]
+}

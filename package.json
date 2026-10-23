@@ -1,0 +1,10 @@
+{
+  "name": "november24-plugin",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/*.test.mjs",
+    "validate": "claude plugin validate .",
+    "zip": "cd .. && rm -f ~/Downloads/november24-plugin.zip && zip -qr ~/Downloads/november24-plugin.zip plugin -x 'plugin/.git/*' 'plugin/node_modules/*' 'plugin/evals/results/*'"
+  }
+}
